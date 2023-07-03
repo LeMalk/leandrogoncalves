@@ -4,9 +4,9 @@
 :computer:  Sou especializado em auxiliar empresas na transformação de cultura DevOps, ajudo as empresas a acelerarem sua entrega de software, melhorarem a colaboração entre as equipes de desenvolvimento e operações, e alcançarem maior eficiência e qualidade em seus projetos de desenvolvimento de software.
 
 <div align="center">
-  <a href="https://github.com/LeMalk/leandrogoncalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeMalk/leandrogoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeMalk/leandrogoncalves&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/leandrogoncalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrogoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogoncalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ###
